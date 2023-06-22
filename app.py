@@ -21,4 +21,5 @@ def crearTabla():
             FOREIGN KEY (jurisdiccion_id) REFERENCES jurisdiccion(id)
         )
     """
+    #no se si se esta cargando ##
     
