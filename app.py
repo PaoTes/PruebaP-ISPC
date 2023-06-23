@@ -5,6 +5,7 @@ def conectar():
     cursor = conexion.cursor()
     return conexion, cursor
     #crear la conexion para la base de datos
+    ###pruegoookjdjkdkdkdkdk"""
 
 def crearTabla():
     conexion, cursor = conectar()
